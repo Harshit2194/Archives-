@@ -1,2 +1,1 @@
-Hello Harshit patel.
-Hello Garima Patel.
+basic python
